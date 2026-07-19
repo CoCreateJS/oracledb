@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-oracledb/compare/v1.0.0...v1.1.0) (2026-07-19)
+
+
+### Features
+
+* Update README.md to reflect Oracle Database integration and enhance documentation ([8480b03](https://github.com/CoCreate-app/CoCreate-oracledb/commit/8480b034afecf4d8133e32471616120383edf1c9))
+
 # 1.0.0 (2026-07-18)
 
 
