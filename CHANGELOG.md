@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-oracledb/compare/v1.1.0...v1.1.1) (2026-07-19)
+
+
+### Bug Fixes
+
+* set default branch to main ([c5a28bb](https://github.com/CoCreate-app/CoCreate-oracledb/commit/c5a28bb45d221c7843ab4e008df5ad85a33f6624))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-oracledb/compare/v1.0.0...v1.1.0) (2026-07-19)
 
 
