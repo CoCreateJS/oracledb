@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/CoCreateJS/oracledb/compare/v2.0.0...v2.0.1) (2026-11-05)
+
+
+### Bug Fixes
+
+* upgrade CoCreate dependencies to v2 ([8d6dc92](https://github.com/CoCreateJS/oracledb/commit/8d6dc92df80dafcc807c79f658b1bd291de3edfa))
+
 # [2.0.0](https://github.com/CoCreateJS/oracledb/compare/v1.1.1...v2.0.0) (2026-11-02)
 
 
